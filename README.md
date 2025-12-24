@@ -1,6 +1,5 @@
 # Streamlit Audio Recorder
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://audiorecorder.streamlit.app/)
 [![Generic badge](https://img.shields.io/badge/PyPI-pip_install_streamlit--audiorec-black.svg)](https://pypi.org/project/streamlit-audiorec/)
 [![GitHub license](https://img.shields.io/badge/Licence-MIT-gr.svg)](https://github.com/stefanrmmr/streamlit-audio-recorder/blob/main/LICENCE)
 
